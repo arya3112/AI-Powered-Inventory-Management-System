@@ -1,3 +1,4 @@
+
 # AI-Powered Inventory Management System
 
 An intelligent inventory management system that helps retailers reduce waste through AI-powered demand forecasting.
@@ -73,3 +74,4 @@ The app will be available at `http://localhost:8501`
 ## License
 
 This project is open source and available under the MIT License.
+
